@@ -1,4 +1,4 @@
-# 🏋️ Colorful Fitness Workout Application (Python GUI)
+# 🏋️ Workout Application (Python GUI)
 
 ## 📌 Project Overview
 This project is a Python GUI based Fitness Workout Application that generates personalized workout plans using user details such as name, age, gender, height, and weight. The user selects a body part and the app provides warm up exercises, main workouts with reps and suggested weight, and stretching exercises in a colorful and interactive interface.
