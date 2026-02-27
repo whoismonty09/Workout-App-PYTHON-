@@ -61,4 +61,4 @@ This project is a Python GUI based Fitness Workout Application that generates pe
 ---
 
 ## 👨‍💻 Author
-Developed by
+Developed by Monty
